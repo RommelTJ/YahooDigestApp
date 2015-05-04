@@ -13,6 +13,7 @@
 		7763ED6A1AF7A3E30081687C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7763ED691AF7A3E30081687C /* Images.xcassets */; };
 		7763ED6D1AF7A3E30081687C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7763ED6B1AF7A3E30081687C /* LaunchScreen.xib */; };
 		7763ED791AF7A3E30081687C /* YahooDigestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7763ED781AF7A3E30081687C /* YahooDigestTests.swift */; };
+		7763ED831AF7A7040081687C /* Clocks.png in Resources */ = {isa = PBXBuildFile; fileRef = 7763ED821AF7A7040081687C /* Clocks.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		7763ED721AF7A3E30081687C /* YahooDigestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YahooDigestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7763ED771AF7A3E30081687C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7763ED781AF7A3E30081687C /* YahooDigestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YahooDigestTests.swift; sourceTree = "<group>"; };
+		7763ED821AF7A7040081687C /* Clocks.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Clocks.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				7763ED621AF7A3E30081687C /* AppDelegate.swift */,
 				7763ED641AF7A3E30081687C /* ViewController.swift */,
 				7763ED661AF7A3E30081687C /* Main.storyboard */,
+				7763ED821AF7A7040081687C /* Clocks.png */,
 				7763ED691AF7A3E30081687C /* Images.xcassets */,
 				7763ED6B1AF7A3E30081687C /* LaunchScreen.xib */,
 				7763ED601AF7A3E30081687C /* Supporting Files */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7763ED831AF7A7040081687C /* Clocks.png in Resources */,
 				7763ED681AF7A3E30081687C /* Main.storyboard in Resources */,
 				7763ED6D1AF7A3E30081687C /* LaunchScreen.xib in Resources */,
 				7763ED6A1AF7A3E30081687C /* Images.xcassets in Resources */,
